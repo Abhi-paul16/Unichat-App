@@ -1,6 +1,6 @@
 # Unichat Application
 
-![Chat Application](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/23/1307270/9f7f5d2977d057f2ee3a0879ef2f922c-original.png)
+![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
 
 ## Introduction
 
